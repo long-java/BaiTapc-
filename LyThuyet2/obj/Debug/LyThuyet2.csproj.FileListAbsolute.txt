@@ -1,0 +1,7 @@
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\obj\Debug\LyThuyet2.csprojAssemblyReference.cache
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\obj\Debug\LyThuyet2.csproj.CoreCompileInputs.cache
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\bin\Debug\LyThuyet2.exe.config
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\bin\Debug\LyThuyet2.exe
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\bin\Debug\LyThuyet2.pdb
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\obj\Debug\LyThuyet2.exe
+C:\Users\LONG_IT\source\repos\LyThuyet2\LyThuyet2\obj\Debug\LyThuyet2.pdb

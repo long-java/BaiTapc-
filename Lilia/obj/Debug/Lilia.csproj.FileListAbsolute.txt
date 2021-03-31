@@ -1,0 +1,11 @@
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\Lilia.exe.config
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\Lilia.exe
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\Lilia.pdb
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\LyThuyet2.exe
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\LyThuyet2.pdb
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\bin\Debug\LyThuyet2.exe.config
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\obj\Debug\Lilia.csprojAssemblyReference.cache
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\obj\Debug\Lilia.csproj.CoreCompileInputs.cache
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\obj\Debug\Lilia.csproj.CopyComplete
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\obj\Debug\Lilia.exe
+C:\Users\LONG_IT\source\repos\LyThuyet2\Lilia\obj\Debug\Lilia.pdb
